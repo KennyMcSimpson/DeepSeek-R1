@@ -165,7 +165,9 @@ We also provide OpenAI-Compatible API at DeepSeek Platform: [platform.deepseek.c
 
 Please visit [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) repo for more information about running DeepSeek-R1 locally.
 
-**NOTE: Hugging Face's Transformers has not been directly supported yet.**
+Hugging Face Transformers provides native support for the DeepSeek-V3 architecture used by DeepSeek-R1.
+See the [Transformers DeepSeek-V3 documentation](https://huggingface.co/docs/transformers/model_doc/deepseek_v3)
+for supported APIs and usage.
 
 ### DeepSeek-R1-Distill Models
 
